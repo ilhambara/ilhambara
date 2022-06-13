@@ -1,7 +1,7 @@
 <p align="center">
   <img 
-    width="72"
-    height="72"
+    width="64"
+    height="64"
     src="https://github.githubassets.com/images/mona-loading-dark.gif"
   >
 </p>
